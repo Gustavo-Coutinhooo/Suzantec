@@ -1,0 +1,1 @@
+Insira o arquivo original, sem alterações, como `suzantec.png`. O cabeçalho e o rodapé o reconhecem no próximo build. Preserve proporções, cores e fundo. O texto atual é apenas identificação provisória, não um novo logotipo.
