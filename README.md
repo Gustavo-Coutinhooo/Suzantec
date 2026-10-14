@@ -36,7 +36,7 @@ O portfólio está reservado para fotos e vídeos reais autorizados. Para ativar
 Todos os campos do formulário são obrigatórios. O ano deve ficar entre 1900 e o próximo ano. Ao enviar, uma nova aba do WhatsApp abre com mensagem estruturada; nenhum dado é salvo. Se o navegador bloquear a aba, habilite pop-ups para o site. Não enviar CPF, placa, endereço residencial ou outros dados desnecessários na descrição.
 
 ## Validação e ambiente
-A integração foi validada com lint, typecheck, build e testes funcionais no Chromium. Consulte `DELIVERY.md` para resultados e limites, `ENVIRONMENT_SETUP.md` para reproduzir o ambiente e `docs/PULL_REQUEST.md` para a descrição preparada para revisão. O logotipo mostrado na conversa ainda precisa ser enviado como arquivo PNG original; o caminho Windows não é acessível neste ambiente.
+A integração foi validada com lint, typecheck, build e testes funcionais no Chromium. Consulte `DELIVERY.md` para resultados e limites, `ENVIRONMENT_SETUP.md` para reproduzir o ambiente e `docs/PULL_REQUEST.md` para a descrição preparada para revisão. O logotipo oficial fornecido pelo proprietário está em `public/logo/suzantec.png`, preservado byte a byte e exibido sem otimização, recorte ou distorção.
 
 ## Publicação na Vercel (somente após autorização)
 1. Enviar a branch ao GitHub e revisar o pull request.

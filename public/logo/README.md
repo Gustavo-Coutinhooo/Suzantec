@@ -1,1 +1,1 @@
-Insira o arquivo original, sem alterações, como `suzantec.png`. O cabeçalho e o rodapé o reconhecem no próximo build. Preserve proporções, cores e fundo. O texto atual é apenas identificação provisória, não um novo logotipo.
+Logotipo original fornecido pelo proprietário em 14/10/2026, copiado byte a byte para `suzantec.png` (458×458, PNG RGBA). Cabeçalho e rodapé exibem o arquivo sem otimização, recorte, alterações de cores ou distorção. Não redesenhar nem editar o logotipo.

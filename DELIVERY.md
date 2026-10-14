@@ -25,7 +25,7 @@ Foram adicionados o lockfile npm e a associação explícita do nome acessível 
 Os testes de navegador foram executados neste ambiente Linux/Chromium. Não representam validação em iPhones, Androids ou Safari reais, nem uma auditoria completa de acessibilidade ou performance.
 
 ## Pendências e publicação
-- O logotipo aparece na conversa, mas o PNG original não está disponível no ZIP/workspace. Enviar o arquivo original para `public/logo/suzantec.png`, sem redesenho, alterações de cor ou proporção, e refazer o build.
+- Logotipo oficial recebido e integrado em `public/logo/suzantec.png`, preservado byte a byte. Cabeçalho e rodapé exibem o original sem otimização, recorte ou distorção.
 - Fotografias ilustrativas permanecem como placeholders. Inserir somente mídias próprias ou licenciadas e documentar a licença.
 - Registros reais e avaliações autorizadas ainda não recebidos. Comparação antes/depois inativa e avaliações ocultas.
 - Domínio definitivo não informado; configurar `NEXT_PUBLIC_SITE_URL` antes da publicação.
