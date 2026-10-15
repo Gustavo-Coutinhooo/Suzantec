@@ -1,0 +1,1 @@
+Logotipo original fornecido pelo proprietário em 14/10/2026, copiado byte a byte para `suzantec.png` (458×458, PNG RGBA). Cabeçalho e rodapé exibem o arquivo sem otimização, recorte, alterações de cores ou distorção. Não redesenhar nem editar o logotipo.
